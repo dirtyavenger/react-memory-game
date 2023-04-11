@@ -16,4 +16,3 @@ export const selectDeck = function () {
   console.log(readyDeck);
   return readyDeck;
 };
-//sdss
